@@ -1,0 +1,68 @@
+2022/07/12 16:30:18 [notice] 13168#23736: signal process started
+2022/07/12 16:30:18 [error] 13168#23736: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:24 [notice] 17232#4468: signal process started
+2022/07/12 16:30:24 [error] 17232#4468: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:25 [notice] 24584#15580: signal process started
+2022/07/12 16:30:25 [error] 24584#15580: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:27 [notice] 15476#25656: signal process started
+2022/07/12 16:30:27 [error] 15476#25656: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:28 [notice] 23960#7480: signal process started
+2022/07/12 16:30:28 [error] 23960#7480: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:29 [notice] 18272#29868: signal process started
+2022/07/12 16:30:29 [error] 18272#29868: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:30 [notice] 16080#6608: signal process started
+2022/07/12 16:30:30 [error] 16080#6608: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:37 [notice] 19564#18976: signal process started
+2022/07/12 16:30:37 [error] 19564#18976: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:38 [notice] 11916#10056: signal process started
+2022/07/12 16:30:38 [error] 11916#10056: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:40 [notice] 24816#768: signal process started
+2022/07/12 16:30:40 [error] 24816#768: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:41 [notice] 27372#15232: signal process started
+2022/07/12 16:30:41 [error] 27372#15232: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:30:44 [notice] 32#28252: signal process started
+2022/07/12 16:30:44 [error] 32#28252: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+
+
+
+
+2022/07/12 16:31:22 [notice] 2780#25736: signal process started
+2022/07/12 16:31:22 [error] 2780#25736: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:32:36 [notice] 19992#21956: signal process started
+2022/07/12 16:32:36 [error] 19992#21956: OpenEvent("Global\ngx_stop_17112") failed (2: The system cannot find the file specified)
+2022/07/12 16:34:17 [notice] 16956#29308: signal process started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2022/07/12 16:38:22 [notice] 13144#9052: signal process started
+2022/07/12 16:38:34 [notice] 25492#19856: signal process started
+2022/07/12 16:38:39 [notice] 20136#23736: signal process started
+2022/07/12 16:40:48 [notice] 12764#17588: signal process started
+2022/07/12 16:57:02 [emerg] 11928#14136: CreateFile() "C:/Program Files/Git/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2022/07/12 17:12:09 [notice] 8000#17128: signal process started
+2022/07/12 17:13:05 [notice] 18944#17696: signal process started
+2022/07/12 18:49:00 [emerg] 21800#28872: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
+2022/07/12 18:49:40 [emerg] 32#28872: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
+2022/07/12 18:51:19 [emerg] 5316#17912: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
+2022/07/12 18:53:51 [emerg] 21540#24056: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
+2022/07/12 18:54:18 [emerg] 16096#22844: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
