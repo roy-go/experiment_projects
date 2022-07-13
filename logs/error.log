@@ -66,3 +66,20 @@
 2022/07/12 18:51:19 [emerg] 5316#17912: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
 2022/07/12 18:53:51 [emerg] 21540#24056: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
 2022/07/12 18:54:18 [emerg] 16096#22844: "client_body_temp_path" directive invalid value in ./conf/nginx.conf:12
+2022/07/13 16:09:20 [alert] 18320#12016: failed to load the 'resty.core' module (https://github.com/openresty/lua-resty-core); ensure you are using an OpenResty release from https://openresty.org/en/download.html (reason: module 'resty.core' not found:
+	no field package.preload['resty.core']
+	no file 'app/resty\core.lua'
+	no file 'moe/resty\core.lua'
+	no file 'moe/lib/resty\core.lua'
+	no file './site/lualib/resty\core.so'
+	no file './lualib/resty\core.so'
+	no file '.\resty\core.dll'
+	no file 'D:\openresty\lualib\resty\core.so'
+	no file 'D:\openresty\resty\core.dll'
+	no file 'D:\openresty\loadall.dll'
+	no file './site/lualib/resty.so'
+	no file './lualib/resty.so'
+	no file '.\resty.dll'
+	no file 'D:\openresty\lualib\resty.so'
+	no file 'D:\openresty\resty.dll'
+	no file 'D:\openresty\loadall.dll') in ./conf/nginx.conf:37

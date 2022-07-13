@@ -7,6 +7,8 @@ if [ "$1" = "reload" ];then
     ${bash_path} -s reload -c ${conf_path}
 elif [ "$1" = "stop" ];then
     ${bash_path} -s stop -c ${conf_path}
+elif [ "$1" = "reopen" ];then
+    ${bash_path} -s reopen -c ${conf_path}
 else
     ${bash_path} -c ${conf_path}
 fi
